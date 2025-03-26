@@ -23,23 +23,12 @@ This is a **Java-based Grade Calculator** that takes a student's marks as input 
    git clone https://github.com/Rajesh111-coder/Grade-Calculator-Java.git
    cd Grade-Calculator-Java
 Compile the Java program:
-
-sh
-Copy
-Edit
 javac GradeCalculator.java
 Run the program:
-
-sh
-Copy
-Edit
 java GradeCalculator
 Enter subject marks & get the final grade!
 
 📌 Example Output
-yaml
-Copy
-Edit
 Enter number of subjects: 3  
 Enter marks for Subject 1: 85  
 Enter marks for Subject 2: 78  
@@ -52,7 +41,3 @@ Grade: B
 If you have any questions, feel free to connect with me:
 📧 Email: [goddurajeshkumar143@gmail.com]
 🔗 GitHub: https://github.com/Rajesh111-coder
-
-yaml
-Copy
-Edit
